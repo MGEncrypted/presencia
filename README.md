@@ -48,7 +48,7 @@ Seis servicios, un solo equipo, una sola factura. Contratas el Plan Base y sumas
 <td align="center" width="33%"><img src="assets/servicios/03-redes.jpg" alt="Presencia en Redes Sociales"><br><sub><strong>03 · Presencia en Redes Sociales</strong> · Standalone<br>Instagram y Facebook completos: 8–12 posts/mes, diseño, copy, respuesta a comentarios y DMs.</sub></td>
 </tr>
 <tr>
-<td align="center" width="33%"><img src="assets/servicios/04-wifi-leads.jpg" alt="Smart WiFi + Captación de Leads"><br><sub><strong>04 · Smart WiFi + Captación de Leads</strong> · Add-on<br>Tu WiFi se vuelve una máquina de marketing: cada cliente que se conecta deja su correo, y esa lista trabaja sola.</sub></td>
+<td align="center" width="33%"><img src="assets/servicios/04-wifi.jpg" alt="Smart WiFi + Captación de Leads"><br><sub><strong>04 · Smart WiFi + Captación de Leads</strong> · Add-on<br>Tu WiFi se vuelve una máquina de marketing: cada cliente que se conecta deja su correo, y esa lista trabaja sola.</sub></td>
 <td align="center" width="33%"><img src="assets/servicios/05-review-shield.jpg" alt="Review Shield — Reputación Online"><br><sub><strong>05 · Review Shield — Reputación Online</strong> · Add-on<br>Las reseñas positivas se publican solas; las negativas pasan primero por nosotros. Respuesta en 24 h.</sub></td>
 <td align="center" width="33%"><img src="assets/servicios/06-seo-aeo.jpg" alt="SEO + AEO — Visibilidad IA"><br><sub><strong>06 · SEO + AEO · Visibilidad IA</strong> · Add-on<br>Apareces donde buscan hoy: Google y los asistentes de IA. Que ChatGPT, Perplexity y Claude citen tu negocio.</sub></td>
 </tr>
