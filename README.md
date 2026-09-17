@@ -4,7 +4,7 @@
 
 <h1 align="center">presencIA</h1>
 
-<h3 align="center">Agencia digital con IA · Lago de Atitlán, Guatemala</h3>
+<h3 align="center">Agencia digital con IA · Lago de Atitlán</h3>
 
 <p align="center">
   <strong>Nos encargamos de todo. Tú, de atender.</strong><br>
@@ -175,5 +175,5 @@ y precios — los mismos de [presencia.lat](https://presencia.lat). Marca herman
 
 <p align="center">
   <strong>presencIA</strong> — Velocidad · Verticalidad · Verdad<br>
-  <sub>Agencia digital con IA · Lago de Atitlán, Guatemala · una empresa de Intuit AI</sub>
+  <sub>Agencia digital con IA · Lago de Atitlán · una empresa de Intuit AI</sub>
 </p>
