@@ -39,14 +39,20 @@ Somos parte de **[Intuit AI](https://github.com/MGEncrypted)**: los mismos produ
 
 ## Lo que hacemos por ti
 
-| # | Servicio | Qué incluye | Modalidad |
-|---|---|---|---|
-| 01 | **Página Web Profesional** | Diseñamos y publicamos tu sitio en menos de 7 días. Bilingüe ES/EN, optimizado para Google, adaptado a todos los dispositivos. Hosting + SSL. | Plan Base |
-| 02 | **Reparto Front-Office AI** | No es un chatbot: cinco agentes especializados que capturan, califican, agendan y escalan solo lo que importa — en una chat con tu marca, en tu web y, a pedido, WhatsApp y Facebook. | Plan Base |
-| 03 | **Presencia en Redes Sociales** | Instagram y Facebook completos: contenido, calendario editorial (8–12 posts/mes), diseño, copy y respuesta a comentarios y DMs. | Standalone |
-| 04 | **Smart WiFi + Captación de Leads** | Tu WiFi se convierte en una máquina de marketing: cada cliente que se conecta deja su correo. Construimos tu base de datos y lanzamos campañas. | Add-on |
-| 05 | **Review Shield — Reputación Online** | Las reseñas positivas se publican solas; las negativas pasan primero por nosotros. Respuesta en 24 h. | Add-on |
-| 06 | **SEO + AEO · Visibilidad IA** | Apareces donde buscan hoy: Google y los asistentes de IA. Contenido estructurado para que ChatGPT, Perplexity y Claude citen tu negocio. GMB, sitemap, IndexNow, structured data. | Add-on |
+Seis servicios, un solo equipo, una sola factura. Contratas el Plan Base y sumas los módulos que necesites.
+
+<table align="center">
+<tr>
+<td align="center" width="33%"><img src="assets/servicios/01-web.webp" alt="Página Web Profesional — grazia.lat"><br><sub><strong>01 · Página Web Profesional</strong> · Plan Base<br>Tu sitio publicado en menos de 7 días. Bilingüe ES/EN, optimizado para Google, hosting + SSL incluidos.</sub></td>
+<td align="center" width="33%"><img src="assets/servicios/02-front-office.png" alt="Reparto Front-Office AI"><br><sub><strong>02 · Reparto Front-Office AI</strong> · Plan Base<br>Cinco agentes que capturan, califican, agendan y escalan — en tu web y, a pedido, WhatsApp y Facebook.</sub></td>
+<td align="center" width="33%"><img src="assets/servicios/03-redes.webp" alt="Presencia en Redes Sociales"><br><sub><strong>03 · Presencia en Redes Sociales</strong> · Standalone<br>Instagram y Facebook completos: 8–12 posts/mes, diseño, copy, respuesta a comentarios y DMs.</sub></td>
+</tr>
+<tr>
+<td align="center" width="33%"><img src="assets/servicios/04-wifi-leads.jpg" alt="Smart WiFi + Captación de Leads"><br><sub><strong>04 · Smart WiFi + Captación de Leads</strong> · Add-on<br>Tu WiFi se vuelve una máquina de marketing: cada cliente que se conecta deja su correo, y esa lista trabaja sola.</sub></td>
+<td align="center" width="33%"><img src="assets/servicios/05-review-shield.webp" alt="Review Shield — Reputación Online"><br><sub><strong>05 · Review Shield — Reputación Online</strong> · Add-on<br>Las reseñas positivas se publican solas; las negativas pasan primero por nosotros. Respuesta en 24 h.</sub></td>
+<td align="center" width="33%"><img src="assets/servicios/06-seo-aeo.webp" alt="SEO + AEO — Visibilidad IA"><br><sub><strong>06 · SEO + AEO · Visibilidad IA</strong> · Add-on<br>Apareces donde buscan hoy: Google y los asistentes de IA. Que ChatGPT, Perplexity y Claude citen tu negocio.</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -104,9 +110,18 @@ Cada página tiene su propio motor gráfico. Ninguna plantilla se repite.
 
 ## En acción
 
-No vendemos promesas: te mostramos el producto. Spots producidos en casa con IA — brief → storyboard → render.
+No vendemos promesas: te mostramos el producto. Tres servicios distintos, tres piezas producidas en casa con IA
+— brief → storyboard → render, sin agencia externa.
 
-**Fundadores y directivos** — el equipo de IA atendiendo mientras tú diriges (6 s):
+**02 · Front-office — recuperación de ventas.** Lo que pasa cuando nadie contesta, y lo que pasa cuando contesta el equipo (6 s):
+
+https://github.com/user-attachments/assets/97f3e627-df46-4be3-b216-bcf589e52066
+
+**03 · Redes sociales — contenido que publicamos.** Reel generado con avatar IA para un cliente, formato vertical listo para Instagram y TikTok:
+
+https://github.com/user-attachments/assets/51a7d621-1f6d-48ae-a470-d73d4fb5e59a
+
+**Fundadores y directivos.** El equipo de IA atendiendo mientras tú diriges (6 s):
 
 https://github.com/user-attachments/assets/2473eb99-4139-4e08-bce7-269fdabac1a8
 
